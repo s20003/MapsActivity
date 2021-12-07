@@ -47,5 +47,5 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
     /*
     Nagabuti Tuyoshi
      */
-    // aaeaea
+    // aaeaeaa
 }
