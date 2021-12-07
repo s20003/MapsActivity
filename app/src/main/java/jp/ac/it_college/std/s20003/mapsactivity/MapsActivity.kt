@@ -52,4 +52,7 @@ class MapsActivity() : AppCompatActivity(), OnMapReadyCallback {
         mMap.addMarker(MarkerOptions().position(tokyo).title("東京駅"))
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(tokyo, 15F))
     }
+    /*
+    Nagabuti Tuyoshi
+     */
 }
