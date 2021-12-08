@@ -48,4 +48,5 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
     Nagabuti Tuyoshi
      */
     // aaeaea
+    //Yoshi Ikuzo
 }
